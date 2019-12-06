@@ -1,0 +1,5 @@
+SIMPLE_AUTH_URL=https://portal-preview.cc.ncu.edu.tw/system/<change it>
+SIMPLE_AUTH_CLIENT_ID="<change it>"
+SIMPLE_AUTH_CLIENT_SECRET=<change it>
+SIMPLE_AUTH_TOKEN_URL=https://portal-preview.cc.ncu.edu.tw/oauth2/token
+SIMPLE_AUTH_USERINFO_URL=https://portal-preview.cc.ncu.edu.tw/apis/oauth/v1/info

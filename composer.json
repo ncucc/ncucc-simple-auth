@@ -1,0 +1,21 @@
+{
+    "name": "ncucc/simple-auth",
+    "description": "Simplified OAuth2 for NCU portal",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jiann-Ching Liu",
+            "email": "saber@g.ncu.edu.tw"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Ncucc\\SimpleAuth\\": "src/" },
+        "exclude-from-classmap": [
+                "/Tests/"
+        ]
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.4"
+    }
+}
